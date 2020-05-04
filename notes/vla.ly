@@ -42,7 +42,7 @@ Viola = {
 		a2.\f r4
 		a4. cis8 d4. d8 %35
 		cis4.. a16 a4 r
-		r r8 <cis, e> <d f>4. q8
+		r r8 <cis, e> <d f>4. q8 \noBreak
 		<cis e>2.\fermata r4\fermata \bar "||"
 		\tempoAllegro d'2\f f \noBreak
 		a1 %40

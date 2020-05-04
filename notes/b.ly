@@ -126,7 +126,7 @@ Basso = {
 		f f f f f f f f %130
 		f4 b c b
 		a b c c,
-		f r^\vlc << { f'2~\mf\> f\! e } \\
+		f r\mf^\vlc << { f'2~\> f\! e } \\
 		{ r2 c,_\bassi r } >>
 		f'4 es d des %135
 		c2 r
