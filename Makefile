@@ -5,8 +5,8 @@
 
 # change the following variables according to your project
 project = Kunzen_Ouverture_Zauberfloete
-notes = fl1 fl2 ob1 ob2 cl1 cl2 fag1 fag2 corf1 corf2 corb1 corb2 tr1 tr2 trb timp vl1 vl2 vla b
-scores = full_score fl1 fl2 ob1 ob2 cl1 cl2 fag1 fag2 corf1 corf2 corb1 corb2 tr1 tr2 trb timp vl1 vl2 vla b
+notes = fl1 fl2 ob1 ob2 cl1 cl2 fag1 fag2 cord1 cord2 corf1 corf2 tr1 tr2 trb timp vl1 vl2 vla b
+scores = full_score fl1 fl2 ob1 ob2 cl1 cl2 fag1 fag2 cord1 cord2 corf1 corf2 tr12timp trb vl1 vl2 vla b bc
 
 # general definitions
 zipname = $(project:%=%_engraving_files)

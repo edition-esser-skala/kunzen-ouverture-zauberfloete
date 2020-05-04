@@ -21,7 +21,7 @@
 % \include "scores/corf1.ly"
 % \include "scores/corf2.ly"
 % \include "scores/trb.ly"
-% \include "scores/tr12_timp.ly"
+% \include "scores/tr12timp.ly"
 % \include "scores/vl1.ly"
 % \include "scores/vl2.ly"
 % \include "scores/vla.ly"
