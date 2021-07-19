@@ -1,0 +1,17 @@
+composer: Kunzen, Friedrich Ludwig Æmilius
+title: Ouverture nach dem Thema der Ouverture zur Zauberflöte
+id: (DK-Kk mu 7904.0982)
+genre: misc
+scoring: 2 fl, 2 ob, 2 cl, 2 fag, 2 cor (F), 2 cor (B), 2 clno (D), b-trb, timp (D–A), 2 vl, vla, b
+sources:
+  1:
+    siglum: DK-Kk
+    shelfmark: mu 7904.0982
+    type: print (A. Kühnel, Leipzig)
+    date: 1809
+    rism: 990035829
+    url: http://img.kb.dk/ma/kunzen/kunzen_ouvzauber-m.pdf
+github: kunzen-ouverture-zauberfloete
+imslp: Ouverture_nach_dem_Thema_der_Ouverture_zur_Zauberflöte_(Kunzen%2C_Friedrich_Ludwig_Aemilius)
+notes:
+
